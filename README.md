@@ -17,3 +17,7 @@ A Virtual Reality Application for similar to Supernatural and FitXR to achieve y
 	<li>Click on Build and Run</li>
 </ul>
 <h2>Media</h2>
+<p align="center">
+  <img src="www.projects.bet/Media/github/Fitness/vid1.mp4">
+  <br>Demo Video
+</p>
