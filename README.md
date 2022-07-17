@@ -18,6 +18,6 @@ A Virtual Reality Application for similar to Supernatural and FitXR to achieve y
 </ul>
 <h2>Media</h2>
 <p align="center">
-  <img src="www.projects.bet/Media/github/Fitness/vid1.mp4">
+  <img src="/github/1.gif">
   <br>Demo Video
 </p>
